@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=280&section=header&text=Ashish%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Ashish%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=25" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;NLP+%26+Computer+Vision+Expert;Building+the+Future+with+Generative+AI;Scalable+System+Architect;Full+Stack+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;NLP+%26+Computer+Vision;Generative+AI+Expert;System+Architect" alt="Typing SVG" />
 </div>
 
 ### 🚀 Engineering Intelligence. Building the Future.
@@ -19,7 +19,7 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 ---
 
-### ⚡ Fun Facts & "High-Octane" Metrics
+### ⚡ Fun Facts & Metrics
 
 <div align="center">
   <img src="https://img.shields.io/badge/Performance-42%25%20Inference%20Boost-brightgreen?style=for-the-badge&logo=rocket" />
@@ -74,7 +74,6 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 - **GitHub Performance**: **850+ Contributions** | **870+ Commits** in the last year.
 - **Achievements**: [Pull Shark 🦈] [YOLO 🚀]
-- **Certification**: Python for Data Science & AI (IBM), Frontend Web Developer (Infosys).
 
 ---
 
@@ -94,43 +93,5 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=50&section=footer&text=Engineered%20to%20Perfection&fontSize=20&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0:ee9ca7,100:ffdde1&height=50&section=footer&text=Engineered%20to%20Perfection&fontSize=20&animation=twinkle" width="100%" />
 </p>
-
-<!-- 
-HOW TO FIX THE BROKEN SNAKE IMAGE:
-1. Create a new file in your repository at: .github/workflows/main.yml
-2. Paste the following code into it:
-
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */24 * * *" # every 24 hours
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
