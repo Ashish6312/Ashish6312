@@ -1,12 +1,15 @@
 # 💫 About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&fontColor=white&height=150&section=header&text=Ashish%20Sharma&fontSize=50" width="100%" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASHISH%20SHARMA-AI%2FML%20ENGINEER-0077B5?style=for-the-badge&logo=ai&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/GEN%20AI%20EXPERT-BUILDING%20THE%20FUTURE-FF6F00?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=AI/ML+Engineer;Full+Stack+Developer;Generative+AI+Expert" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-COMPUTER%20VISION-brightgreen?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-AI%20INTEGRATION-blueviolet?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCALABLE-SYSTEMS-red?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ### 🚀 Engineering Intelligence. Building the Future.
 
@@ -47,7 +50,6 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 <div align="center">
   <!-- THE SNAKE ANIMATION -->
-  <!-- Note: This will be active in ~5 minutes after the GitHub Action finishes its first run! -->
   <img src="https://raw.githubusercontent.com/Ashish6312/Ashish6312/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
@@ -94,5 +96,5 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0:ee9ca7,100:ffdde1&height=50&section=footer&text=Engineered%20to%20Perfection&fontSize=20&animation=twinkle" width="100%" />
+  <b>Engineered to Perfection by Ashish Sharma</b>
 </p>
