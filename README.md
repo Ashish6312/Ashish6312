@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Ashish%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:ee9ca7,100:ffdde1&height=250&section=header&text=Ashish%20Sharma&fontSize=70" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;NLP+%26+Computer+Vision;Generative+AI+Expert;System+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=AI/ML+Engineer;Full+Stack+Developer;Generative+AI+Expert" alt="Typing SVG" />
 </div>
 
 ### 🚀 Engineering Intelligence. Building the Future.
@@ -47,6 +47,7 @@ I am a results-driven **AI/ML Engineer** specializing in the intersection of Dee
 
 <div align="center">
   <!-- THE SNAKE ANIMATION -->
+  <!-- Note: This will be active in ~5 minutes after the GitHub Action finishes its first run! -->
   <img src="https://raw.githubusercontent.com/Ashish6312/Ashish6312/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
